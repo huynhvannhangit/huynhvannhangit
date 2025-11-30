@@ -13,28 +13,28 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Backend Developer with expertise in building scalable web applications and intelligent systems. Currently pursuing my degree in Computer Science at Nam Can Tho University, I specialize in server-side development, mobile backend systems, and machine learning applications.
+I'm an Information Technology student at Nam Can Tho University, specializing in backend development and machine learning. I'm passionate about building scalable web applications, mobile solutions, and exploring cutting-edge technologies.
 
-**Core Competencies:**
-- ☕ **Java Development:** Enterprise-grade backend systems with Spring Boot, RESTful API design, and Android application development
-- 🟣 **C# & .NET:** Building robust APIs and microservices using .NET Core and ASP.NET
-- 🐍 **Python & AI/ML:** Implementing machine learning models with TensorFlow, PyTorch, and scikit-learn for intelligent systems
-- 🗄️ **Database Management:** Experienced with MySQL, PostgreSQL, and SQL Server for efficient data storage and retrieval
-- 🌐 **Full-Stack Awareness:** Proficient in HTML5, CSS3, JavaScript, and Bootstrap for seamless frontend integration
+**Tech Stack:**
+- ☕ **Java:** Server-side development with Spring Boot framework and native Android applications
+- 🟣 **C#:** Developing RESTful APIs with .NET Core and ASP.NET
+- 🐍 **Python:** Machine learning model development and data processing
+- 🗄️ **Databases:** Relational database management (MySQL, PostgreSQL, SQL Server)
+- 🌐 **Frontend:** Web technologies (HTML5, CSS3, JavaScript ES6+, Bootstrap)
 
 📍 **Location:** Can Tho, Vietnam  
-💡 **Philosophy:** Building intelligent, scalable systems that solve real-world problems
+💡 **Focus Areas:** Backend architecture, mobile application development, AI/ML
 
-### 🎯 Current Focus
+### 🎯 Currently Working On
 
-- 🚀 Developing enterprise-level **backend applications** using Java Spring Boot
-- 🔧 Building cross-platform **RESTful APIs** with C# .NET Core
-- 📱 Creating **Android mobile applications** with modern architecture patterns
-- 🤖 Researching **Deep Learning** techniques for computer vision and NLP applications
-- 🔗 Exploring **Blockchain technology** for decentralized systems
-- 📊 Implementing **scalable database architectures** for high-performance applications
+- 🚀 Developing RESTful APIs using Java Spring Boot
+- 🔧 Building microservices architecture with C# .NET Core
+- 📱 Creating native Android applications with Java/Kotlin
+- 🤖 Implementing machine learning models with TensorFlow and PyTorch
+- 🔗 Exploring distributed systems and blockchain technology
+- 📊 Designing normalized database schemas and query optimization
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Skills
 
 #### Backend Development
 
@@ -46,7 +46,7 @@ I'm a passionate Backend Developer with expertise in building scalable web appli
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
-#### Database Technologies
+#### Database Management Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -77,8 +77,7 @@ I'm a passionate Backend Developer with expertise in building scalable web appli
 ### 🎓 Education
 
 **Nam Can Tho University** - Can Tho, Vietnam  
-Bachelor of Computer Science | Information Technology  
-Specialization: Backend Development, Mobile Applications, and Artificial Intelligence
+Engineer of Engineering in Information Technology
 
 ### 📫 Connect With Me
 
@@ -101,6 +100,6 @@ Specialization: Backend Development, Mobile Applications, and Artificial Intelli
 </p>
 
 <p align="center">
-  <strong>Backend Developer | Machine Learning Enthusiast | Problem Solver</strong><br>
-  Building the future, one line of code at a time 🚀
+  <strong>Information Technology Student | Backend Developer</strong><br>
+  Continuously learning and building innovative solutions 💻
 </p>
