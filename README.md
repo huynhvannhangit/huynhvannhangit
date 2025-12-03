@@ -85,7 +85,7 @@ Engineer of Engineering in Information Technology
   <a href="mailto:huynhvannhanwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://facebook.com/yourprofile">
+  <a href="https://www.facebook.com/share/1BwR8krfVA/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://github.com/huynhvannhangit">
