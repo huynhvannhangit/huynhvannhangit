@@ -17,6 +17,8 @@ I'm an Information Technology student at Nam Can Tho University, specializing in
 
 **Tech Stack:**
 - ☕ **Java:** Server-side development with Spring Boot framework and native Android applications
+- 🟨 **JavaScript / TypeScript:** Backend development with Node.js and NestJS framework
+- 🐱 **NestJS:** Building scalable, modular, and maintainable server-side applications
 - 🟣 **C#:** Developing RESTful APIs with .NET Core and ASP.NET
 - 🐍 **Python:** Machine learning model development and data processing
 - 🗄️ **Databases:** Relational database management (MySQL, PostgreSQL, SQL Server)
@@ -33,6 +35,8 @@ I'm an Information Technology student at Nam Can Tho University, specializing in
 - 🤖 Implementing machine learning models with TensorFlow and PyTorch
 - 🔗 Exploring distributed systems and blockchain technology
 - 📊 Designing normalized database schemas and query optimization
+- 🟨 Developing backend services with Node.js, JavaScript & TypeScript
+- 🐱 Building scalable REST APIs using NestJS framework
 
 ### 🛠️ Technical Skills
 
@@ -40,6 +44,10 @@ I'm an Information Technology student at Nam Can Tho University, specializing in
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
